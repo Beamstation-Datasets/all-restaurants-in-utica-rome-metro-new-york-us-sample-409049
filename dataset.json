@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full metro-level restaurant coverage for Utica-Rome (Metro), New York, spanning Utica and Rome. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Utica-Rome (Metro), New York, US",
+  "export_job_id": "690020bb-747a-4f1e-a928-592bf921d7df",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 409049,
+  "location_name": "Utica-Rome, NY",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-utica-rome-metro-new-york-us-sample-409049",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/409049/beamstation_409049_restaurants-us-uticaromeny_SAMPLE_DIST.csv",
+  "sample_pct": 4.41,
+  "sample_records": 25,
+  "sample_sha256": "c67ab61c92e465a5946cdeb3172371c6c81ef29879c973f48aa4df9720ae4935",
+  "sample_size_bytes": 114587,
+  "total_records": 567,
+  "updated_at": "2026-03-31T16:44:02.120296+00:00"
+}
