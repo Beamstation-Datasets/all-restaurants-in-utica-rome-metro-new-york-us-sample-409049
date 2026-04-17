@@ -1,12 +1,12 @@
 {
-  "export_job_id": "690020bb-747a-4f1e-a928-592bf921d7df",
+  "export_job_id": "7fa9b68b-f4e6-423f-b4a2-ffe56d5927c4",
   "id_short": 409049,
-  "published_at": "2026-04-12T19:04:50Z",
+  "published_at": "2026-04-17T19:25:30Z",
   "repo_name": "all-restaurants-in-utica-rome-metro-new-york-us-sample-409049",
   "sample_asset_name": "beamstation_409049_restaurants-us-uticaromeny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/409049/beamstation_409049_restaurants-us-uticaromeny_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "c67ab61c92e465a5946cdeb3172371c6c81ef29879c973f48aa4df9720ae4935",
-  "sample_size_bytes": 114587,
-  "total_records": 567
+  "sample_records": 66,
+  "sample_sha256": "1dc7af73fe636d0df01b603c95753361e57f893748828f97ce1253d8fbc02b35",
+  "sample_size_bytes": 234740,
+  "total_records": 664
 }
