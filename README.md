@@ -1,6 +1,6 @@
 # All Restaurants in Utica-Rome (Metro), New York, US
 
-> Free BeamStation sample export with 66 rows and masked direct-contact fields.
+> Free BeamStation sample export with 67 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `409049` |
 | Location | Utica-Rome, NY |
 | Category | Restaurants |
-| Full dataset size | 666 records |
-| Free sample size | 66 records (9.91%) |
-| Last export | 2026-04-28T20:51:58.752151+00:00 |
+| Full dataset size | 674 records |
+| Free sample size | 67 records (9.94%) |
+| Last export | 2026-05-07T13:36:23.312691+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-utica-rome-metro-new-york-us-sample-409049/releases/download/sample-latest/beamstation_409049_restaurants-us-uticaromeny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
